@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="welcome_prefix">What\'s up</string>
+    <string name="categories">Categories</string>
+    <string name="today_task">Today\'s Task</string>
+</resources>
